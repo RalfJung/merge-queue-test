@@ -6,6 +6,7 @@ register to monitor their nodes.  It uses the `nodes.json` from
 online, and sends notifications when the online status changes.
 
 1
+2
 
 ## Setup
 
