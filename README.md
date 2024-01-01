@@ -7,6 +7,8 @@ online, and sends notifications when the online status changes.
 
 1
 2
+3
+4
 
 ## Setup
 
