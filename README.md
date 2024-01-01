@@ -5,6 +5,8 @@ register to monitor their nodes.  It uses the `nodes.json` from
 [hopglass](https://github.com/hopglass/hopglass) to detect which nodes are
 online, and sends notifications when the online status changes.
 
+1
+
 ## Setup
 
 The setup consists of three parts: Getting the service built, getting the
